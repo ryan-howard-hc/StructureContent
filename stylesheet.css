@@ -12,3 +12,7 @@ tr {
     border-width: 2px;
 }
 
+button:active { 
+    background-color: blue;
+}
+
